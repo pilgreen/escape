@@ -1,5 +1,5 @@
 # escape
-A Go command to escape/unescape piped content 
+A command to escape/unescape piped content 
 
 #### Installation:
 `go get github.com/pilgreen/escape`
