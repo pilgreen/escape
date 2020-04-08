@@ -1,2 +1,11 @@
 # escape
-A command written in Go to escape/unescape piped content 
+A Go command to escape/unescape piped content 
+
+#### Installation:
+`go get github.com/pilgreen/escape`
+
+#### Usage: 
+`escape < STDIN`
+
+#### Flags:
+**-u** unescape content instead
